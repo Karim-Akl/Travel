@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    }
+    body{
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.505);
+    }
+    .ta{
+        width: 100%;
+        height: auto;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    
+    }
+    h1{
+        width: 100%;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+    }
